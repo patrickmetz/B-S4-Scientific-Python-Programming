@@ -26,7 +26,7 @@
       - SciPy
 
 ## Ergebnis
- - siehe [Final assignment: Life Expectancy](master/assignment_final.ipynb)
+ - siehe [Final assignment: Life Expectancy](https://github.com/patrickmetz/B-S4-Scientific-Python-Programming/blob/master/assignment_final.ipynb)
     - deckt Schwerpunkte vollständig ab
     - inklusive Ausarbeitung von
         - Zielen
