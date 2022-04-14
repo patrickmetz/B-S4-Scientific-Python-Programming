@@ -26,4 +26,5 @@
       - SciPy
 
 ## Ergebnis
+ - inkl. sämtlicher Dokumentation
  - siehe [Final assignment: Life Expectancy](https://github.com/patrickmetz/B-S4-Scientific-Python-Programming/blob/master/assignment_final.ipynb)
